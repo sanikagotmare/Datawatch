@@ -6,7 +6,7 @@ python-multipart==0.0.9
 # Database — SQLite works out of the box
 # For PostgreSQL later: pip install psycopg2-binary
 sqlalchemy==2.0.30
-
+psycopg2-binary==2.9.9
 # Auth
 python-jose[cryptography]==3.3.0
 passlib[bcrypt]==1.7.4
