@@ -49,7 +49,7 @@ app.add_middleware(
 
         # Your Vercel frontend
         "https://datawatch-frontend-eta.vercel.app",
-        "https://datawatch-frontend-ngin7244r-sanikagotmares-projects.vercel.app",
+        
     ],
     allow_credentials=True,
     allow_methods=["*"],
