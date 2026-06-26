@@ -6,7 +6,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.4-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-1.5_Flash-4285F4?style=flat&logo=google&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-2.5_Flash-4285F4?style=flat&logo=google&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-RAG-FF6B35?style=flat)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
@@ -125,7 +125,7 @@ datawatch-py/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/datawatch.git
+git clone https://github.com/sanikagotmare/datawatch.git
 cd datawatch
 ```
 
