@@ -37,7 +37,7 @@ DataWatch automatically detects data quality issues in your datasets using a com
 | ML Detection | Scikit-learn Isolation Forest | Unsupervised anomaly detection |
 | Statistics | Pandas + Scipy Z-score | Missing values, outliers, duplicates |
 | Data Profiling | Matplotlib + Seaborn | Server-side chart generation |
-| LLM | Google Gemini 1.5 Flash | AI diagnosis + explainability |
+| LLM | Google Gemini 2.5 Flash | AI diagnosis + explainability |
 | Vector DB | ChromaDB | RAG memory — semantic similarity search |
 | Scheduler | APScheduler | Background monitoring jobs |
 | Frontend | React 18 + Vite + TailwindCSS | UI |
