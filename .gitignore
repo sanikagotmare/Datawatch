@@ -1,0 +1,30 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Database
+*.db
+*.sqlite3
+
+# ChromaDB vector store
+chroma_db/
+
+# Uploaded files (user data)
+backend/uploaded_files/
+
+# Temp healed files
+datawatch_healed/
+
+# Node
+node_modules/
+dist/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
