@@ -43,14 +43,12 @@ app = FastAPI(
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:5173",
-        "http://localhost:3000",
-
-        # Your Vercel frontend
-        "https://datawatch-frontend-eta.vercel.app",
-        
-    ],
+   allow_origins=[
+    "http://localhost:5173",
+    "http://localhost:3000",
+    "https://datawatch-frontend-eta.vercel.app",
+    "https://datawatch-frontend-ngin7244r-sanikagotmares-projects.vercel.app",
+],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
