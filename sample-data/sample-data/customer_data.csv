@@ -1,0 +1,211 @@
+customer_id,name,email,phone,aadhaar,dob,city,segment,lifetime_value,active
+C00000,Customer 0,customer0@domain.com,9895132217,9270 7991 9976,1983-09-21,Chennai,Premium,7345.1,Yes
+C00001,Customer 1,customer1@domain.com,9866851377,8305 3607 8777,1982-01-13,Chennai,Basic,61706.31,Yes
+C00002,Customer 2,customer2@domain.com,9847135391,8373 5246 5050,1977-04-04,Delhi,Standard,40239.7,Yes
+C00003,Customer 3,customer3@domain.com,9815917225,5543 9540 8939,1989-02-22,Hyderabad,Basic,17585.09,Yes
+C00004,Customer 4,customer4@domain.com,9810475894,,1973-11-21,Delhi,Standard,27217.47,Yes
+C00005,Customer 5,customer5@domain.com,9854769200,2269 5681 4841,1998-01-02,Bangalore,Basic,14799.62,Yes
+C00006,Customer 6,customer6@domain.com,9827558317,5451 6502 6238,1981-04-05,Pune,Premium,47274.87,Yes
+C00007,Customer 7,customer7@domain.com,9895511909,9849 2320 3267,1996-04-03,Mumbai,Basic,4255.8,Yes
+C00008,Customer 8,customer8@domain.com,9845159040,3471 4788 7275,1995-04-19,Chennai,Basic,259.92,Yes
+C00009,Customer 9,customer9@domain.com,,3503 4505 2052,1973-04-11,Bangalore,Standard,49428.88,Yes
+C00010,Customer 10,customer10@domain.com,,7797 7678 6421,1969-10-01,Delhi,Standard,10800.57,Yes
+C00011,Customer 11,,,9890 8633 7812,1977-03-05,Chennai,Premium,3679.15,Yes
+C00012,Customer 12,customer12@domain.com,9867403166,2020 4388 7883,1994-05-26,Pune,Basic,25273.98,Yes
+C00013,Customer 13,,9885283645,7381 1320 7232,1971-02-22,Delhi,Basic,2605.13,Yes
+C00014,Customer 14,customer14@domain.com,9811297845,8814 1096 6763,1961-03-01,Hyderabad,Basic,108849.26,Yes
+C00015,Customer 15,customer15@domain.com,9825015458,5892 7389 7865,1982-04-19,Hyderabad,Basic,1400.26,Yes
+C00016,Customer 16,customer16@domain.com,9820099059,9818 9947 4613,1980-01-06,Mumbai,Premium,43240.08,Yes
+C00017,Customer 17,customer17@domain.com,9830005727,8999 4595 5471,1976-01-05,Chennai,Standard,28854.87,Yes
+C00018,Customer 18,,9883227889,8140 8956 1475,1986-09-04,Bangalore,Basic,55741.07,Yes
+C00019,Customer 19,customer19@domain.com,9814835614,7371 6507 7624,1964-08-15,Mumbai,Premium,19886.21,Yes
+C00020,Customer 20,customer20@domain.com,9859555330,3704 8657 3091,1983-09-19,Chennai,Premium,8423.4,Yes
+C00021,Customer 21,customer21@domain.com,9888183110,9751 1441 7455,1966-08-17,Chennai,Premium,200429.14,Yes
+C00022,Customer 22,customer22@domain.com,9884158663,1444 2375 8022,1974-10-02,Chennai,Premium,91296.9,Yes
+C00023,Customer 23,customer23@domain.com,9829876811,3223 8564 3977,1993-05-15,Chennai,Premium,98450.36,Yes
+C00024,Customer 24,,9867684996,1823 5262 7211,1961-01-16,Chennai,Standard,14400.86,Yes
+C00025,Customer 25,customer25@domain.com,9827105448,6363 4467 8449,1985-07-22,Mumbai,Premium,1980.45,Yes
+C00026,Customer 26,customer26@domain.com,9815614174,6355 6529 7211,1966-08-23,Pune,Standard,18067.54,Yes
+C00027,Customer 27,customer27@domain.com,9851373735,5558 7906 5133,1988-02-03,Pune,Basic,38510.31,Yes
+C00028,Customer 28,customer28@domain.com,9858942697,2341 8705 1317,1980-10-05,Mumbai,Basic,19774.59,Yes
+C00029,Customer 29,customer29@domain.com,9815354599,9837 1853 6733,1964-03-09,Hyderabad,Standard,87974.97,Yes
+C00030,Customer 30,,9858024342,4673 2124 1659,1999-11-19,Pune,Standard,15841.33,Yes
+C00031,Customer 31,customer31@domain.com,9838195995,1508 5051 4266,1995-12-11,Bangalore,Basic,167981.42,Yes
+C00032,Customer 32,,9843491314,1333 3496 4908,1984-10-17,Bangalore,Premium,30556.72,Yes
+C00033,Customer 33,customer33@domain.com,9899514287,3068 8758 2874,1978-08-17,Hyderabad,Basic,92265.32,Yes
+C00034,Customer 34,,9823796726,4571 8619 5198,1998-07-04,Mumbai,Premium,10807.16,Yes
+C00035,Customer 35,customer35@domain.com,,,1967-11-21,Bangalore,Premium,26496.51,Yes
+C00036,Customer 36,customer36@domain.com,,3683 6096 2771,1995-12-28,Mumbai,Standard,60117.41,Yes
+C00037,Customer 37,customer37@domain.com,9864543049,1420 6111 7149,1973-07-15,Bangalore,Standard,7445.49,Yes
+C00038,Customer 38,customer38@domain.com,,7498 4249 2245,1974-07-11,Delhi,Basic,7121.14,Yes
+C00039,Customer 39,customer39@domain.com,9830743797,4978 2669 5941,1989-07-14,Hyderabad,Basic,174561.9,Yes
+C00040,Customer 40,customer40@domain.com,9841774346,2983 1672 6688,1966-06-14,Hyderabad,Standard,62692.32,Yes
+C00041,Customer 41,customer41@domain.com,9831810617,,1980-11-09,Hyderabad,Basic,2096.73,Yes
+C00042,Customer 42,customer42@domain.com,9833763566,2129 9289 6590,1983-03-22,Mumbai,Standard,25443.12,Yes
+C00043,Customer 43,customer43@domain.com,9865337219,1207 7882 9031,1990-02-03,Chennai,Standard,28415.74,Yes
+C00044,Customer 44,customer44@domain.com,9813326769,2729 8102 6934,1965-02-14,Hyderabad,Basic,68137.22,Yes
+C00045,Customer 45,customer45@domain.com,9834073380,8532 3506 8135,1966-12-24,Bangalore,Premium,14441.51,Yes
+C00046,Customer 46,customer46@domain.com,9854585178,3885 9548 5425,1983-03-18,Delhi,Premium,10187.5,Yes
+C00047,Customer 47,customer47@domain.com,9865259205,9817 8921 8616,1963-10-18,Mumbai,Standard,4216.55,Yes
+C00048,Customer 48,customer48@domain.com,9899913412,8136 5397 6280,1995-06-22,Bangalore,Basic,27958.31,Yes
+C00049,Customer 49,,9843308443,5022 2419 5569,1967-07-12,Chennai,Premium,58317.78,Yes
+C00050,Customer 50,customer50@domain.com,,8385 4995 8613,1987-12-02,Bangalore,Standard,2997.78,Yes
+C00051,Customer 51,customer51@domain.com,9831367172,7209 6511 1470,1978-10-10,Hyderabad,Standard,123381.08,Yes
+C00052,Customer 52,customer52@domain.com,9824508349,9098 6325 3979,1982-02-19,Delhi,Basic,29201.39,Yes
+C00053,Customer 53,customer53@domain.com,9861343880,8988 4475 6813,1992-04-05,Hyderabad,Basic,13707.85,Yes
+C00054,Customer 54,customer54@domain.com,9815197528,5232 6576 5581,1990-04-28,Pune,Standard,4928.81,Yes
+C00055,Customer 55,customer55@domain.com,9873174945,5526 1166 9464,1966-06-28,Hyderabad,Premium,10097.61,Yes
+C00056,Customer 56,customer56@domain.com,9839854548,4130 2402 4954,1995-06-04,Pune,Basic,136372.35,Yes
+C00057,Customer 57,customer57@domain.com,9836786211,7658 9004 4937,1977-10-08,Hyderabad,Basic,50842.94,Yes
+C00058,Customer 58,customer58@domain.com,9871780854,8800 9041 8342,1987-09-25,Delhi,Basic,36355.5,Yes
+C00059,Customer 59,customer59@domain.com,9856930359,1282 2524 5820,1999-10-22,Delhi,Premium,53517.47,Yes
+C00060,Customer 60,customer60@domain.com,9850962024,4630 7625 4986,1995-01-20,Mumbai,Premium,28606.06,Yes
+C00061,Customer 61,customer61@domain.com,9840547349,6016 7046 8753,1977-01-06,Hyderabad,Standard,65473.95,Yes
+C00062,Customer 62,customer62@domain.com,9839920292,9698 6632 7971,1977-12-25,Pune,Basic,2444.61,Yes
+C00063,Customer 63,customer63@domain.com,9813176186,6419 6764 8434,1979-06-12,Mumbai,Premium,41739.82,Yes
+C00064,Customer 64,customer64@domain.com,9898588154,5438 6023 5118,1960-03-28,Bangalore,Premium,8637.17,Yes
+C00065,Customer 65,customer65@domain.com,9835921441,4777 2976 4155,1969-10-22,Delhi,Basic,6401.02,Yes
+C00066,Customer 66,customer66@domain.com,9863481198,6169 2958 9779,1985-02-05,Mumbai,Premium,20918.37,Yes
+C00067,Customer 67,,9854058573,4033 4138 4545,1961-02-24,Delhi,Standard,4814.48,Yes
+C00068,Customer 68,customer68@domain.com,9847393469,8933 5530 9595,1993-04-13,Mumbai,Premium,4944.46,Yes
+C00069,Customer 69,customer69@domain.com,9819317495,5636 2647 4180,1986-08-11,Bangalore,Premium,18655.7,Yes
+C00070,Customer 70,customer70@domain.com,9847463522,5853 4727 6912,1970-06-10,Bangalore,Standard,194392.21,Yes
+C00071,Customer 71,,9857130035,3939 5952 1231,1980-10-20,Chennai,Basic,9638.61,Yes
+C00072,Customer 72,customer72@domain.com,9896098221,9751 3073 5494,1965-01-05,Pune,Premium,865.5,Yes
+C00073,Customer 73,,9878371272,1745 1893 5786,1970-10-02,Chennai,Standard,72061.7,Yes
+C00074,Customer 74,customer74@domain.com,9863643924,3068 9042 2680,1965-05-15,Pune,Basic,82230.71,Yes
+C00075,Customer 75,customer75@domain.com,9881969657,1200 5658 8690,1987-08-20,Bangalore,Standard,21255.67,Yes
+C00076,Customer 76,customer76@domain.com,9854446182,,1988-07-09,Mumbai,Premium,31243.95,Yes
+C00077,Customer 77,customer77@domain.com,9813704481,4020 1841 5136,1973-09-04,Hyderabad,Standard,52458.79,Yes
+C00078,Customer 78,customer78@domain.com,9825480907,8827 2869 2070,1982-07-04,Delhi,Premium,2462.61,Yes
+C00079,Customer 79,customer79@domain.com,9845059710,7565 9056 2213,1978-11-22,Bangalore,Basic,148939.56,Yes
+C00080,Customer 80,customer80@domain.com,9833966966,1878 3485 3444,1997-08-17,Bangalore,Basic,108877.15,Yes
+C00081,Customer 81,customer81@domain.com,9887925434,,1979-01-08,Mumbai,Standard,15115.67,Yes
+C00082,Customer 82,customer82@domain.com,9845630292,2940 7818 4697,1985-10-02,Hyderabad,Premium,771.14,Yes
+C00083,Customer 83,customer83@domain.com,9815134794,,1960-04-10,Bangalore,Basic,135479.8,Yes
+C00084,Customer 84,customer84@domain.com,9824549543,,1973-03-25,Bangalore,Standard,34761.46,Yes
+C00085,Customer 85,customer85@domain.com,,6003 1986 2625,1976-05-11,Mumbai,Basic,38758.82,Yes
+C00086,Customer 86,customer86@domain.com,,,1967-01-16,Bangalore,Basic,57594.92,Yes
+C00087,Customer 87,customer87@domain.com,9856397338,2330 3573 4929,1987-03-05,Pune,Premium,47836.26,Yes
+C00088,Customer 88,customer88@domain.com,9852101056,3847 2229 3564,1984-09-23,Pune,Basic,144023.49,Yes
+C00089,Customer 89,customer89@domain.com,9868571795,1043 7693 8381,1974-09-18,Hyderabad,Basic,144345.33,Yes
+C00090,Customer 90,customer90@domain.com,9891363974,8699 5771 1534,1982-02-13,Pune,Premium,100945.15,Yes
+C00091,Customer 91,customer91@domain.com,9878642041,4792 5720 5632,1962-07-01,Pune,Basic,50585.54,Yes
+C00092,Customer 92,,9825521714,8438 2166 4824,1989-02-28,Bangalore,Basic,80709.78,Yes
+C00093,Customer 93,,,5334 4241 7965,1980-10-14,Delhi,Premium,56531.21,Yes
+C00094,Customer 94,customer94@domain.com,9887388337,,1996-07-23,Pune,Premium,42591.56,Yes
+C00095,Customer 95,,9835511941,3441 5352 3330,1986-05-04,Hyderabad,Basic,6876.99,Yes
+C00096,Customer 96,customer96@domain.com,9844188276,2169 1977 3718,1985-01-11,Pune,Basic,83354.46,Yes
+C00097,Customer 97,customer97@domain.com,9815957459,6039 5728 8195,1970-10-15,Bangalore,Basic,85917.87,Yes
+C00098,Customer 98,,9868526649,3037 8679 5982,1983-02-14,Chennai,Basic,49166.91,Yes
+C00099,Customer 99,customer99@domain.com,9810226999,7594 5460 9199,1966-04-14,Bangalore,Standard,85858.63,Yes
+C00100,Customer 100,,9879782527,,1997-07-17,Mumbai,Basic,52703.67,Yes
+C00101,Customer 101,customer101@domain.com,9882269803,2317 1653 8078,1965-07-28,Hyderabad,Premium,11576.71,Yes
+C00102,Customer 102,,,6280 5102 1423,1979-12-11,Pune,Premium,16007.59,Yes
+C00103,Customer 103,,9858884978,2496 4750 1339,1974-06-25,Mumbai,Premium,12077.41,Yes
+C00104,Customer 104,customer104@domain.com,9867887757,5415 1659 3870,1970-02-17,Pune,Premium,23681.24,Yes
+C00105,Customer 105,customer105@domain.com,9819391725,8708 9502 8245,1967-09-17,Chennai,Basic,1987.13,Yes
+C00106,Customer 106,customer106@domain.com,9899152472,5557 3973 8141,1972-06-12,Delhi,Basic,48149.98,Yes
+C00107,Customer 107,customer107@domain.com,9854318698,9056 2494 8700,1969-04-04,Chennai,Standard,20515.41,Yes
+C00108,Customer 108,customer108@domain.com,9893638503,6700 7690 6460,1969-05-07,Bangalore,Basic,53315.38,Yes
+C00109,Customer 109,customer109@domain.com,9852133044,6260 2713 3634,1971-10-05,Bangalore,Premium,24338.91,Yes
+C00110,Customer 110,customer110@domain.com,9899038359,6403 7744 9117,1964-03-25,Mumbai,Basic,57224.49,Yes
+C00111,Customer 111,customer111@domain.com,9826726926,5722 7561 1601,1991-08-25,Mumbai,Standard,20823.11,Yes
+C00112,Customer 112,customer112@domain.com,9850308572,8451 2442 6153,1996-10-15,Bangalore,Basic,15102.2,Yes
+C00113,Customer 113,customer113@domain.com,9878064830,5135 6296 2899,1996-11-21,Hyderabad,Basic,34262.67,Yes
+C00114,Customer 114,customer114@domain.com,9851511484,7622 9431 1018,1999-06-28,Bangalore,Premium,59027.52,Yes
+C00115,Customer 115,,9899508850,9889 8569 7770,1980-03-15,Bangalore,Standard,21411.36,Yes
+C00116,Customer 116,customer116@domain.com,,1888 4073 9494,1964-08-15,Pune,Basic,137952.56,Yes
+C00117,Customer 117,customer117@domain.com,9853779528,6927 9167 8242,1979-05-19,Chennai,Basic,1998.74,Yes
+C00118,Customer 118,customer118@domain.com,9864009265,1845 4335 5375,1963-06-17,Hyderabad,Standard,27059.61,Yes
+C00119,Customer 119,customer119@domain.com,9849682169,9998 3146 5719,1964-05-15,Pune,Basic,171449.84,Yes
+C00120,Customer 120,customer120@domain.com,9884411983,8178 8941 2989,1988-01-02,Delhi,Standard,39700.54,Yes
+C00121,Customer 121,customer121@domain.com,,,1983-05-03,Hyderabad,Standard,27536.48,Yes
+C00122,Customer 122,customer122@domain.com,9835748341,6091 1224 7684,1965-10-20,Pune,Premium,42026.74,Yes
+C00123,Customer 123,customer123@domain.com,9866431351,2527 4681 2858,1992-07-15,Bangalore,Basic,42892.2,Yes
+C00124,Customer 124,customer124@domain.com,9899245317,8560 2924 3522,1997-09-26,Pune,Standard,65772.74,Yes
+C00125,Customer 125,customer125@domain.com,9860888017,,1962-08-26,Mumbai,Standard,6830.51,Yes
+C00126,Customer 126,customer126@domain.com,9833357554,5479 7807 8905,1996-11-07,Hyderabad,Standard,14385.2,Yes
+C00127,Customer 127,customer127@domain.com,9892613013,8736 4993 8483,1980-10-16,Bangalore,Premium,43439.83,Yes
+C00128,Customer 128,customer128@domain.com,,3369 7284 4122,1992-03-02,Chennai,Basic,100914.16,Yes
+C00129,Customer 129,,9850392808,,1988-02-26,Pune,Premium,41261.6,Yes
+C00130,Customer 130,customer130@domain.com,,,1981-12-03,Bangalore,Premium,13629.62,Yes
+C00131,Customer 131,customer131@domain.com,9883542887,,1992-11-06,Hyderabad,Standard,56947.47,Yes
+C00132,Customer 132,customer132@domain.com,,5634 5891 9022,1962-04-23,Mumbai,Standard,67336.14,Yes
+C00133,Customer 133,customer133@domain.com,9850785405,3434 8316 9824,1988-08-17,Mumbai,Standard,13605.93,Yes
+C00134,Customer 134,customer134@domain.com,9848508907,8935 6654 6446,1993-10-06,Hyderabad,Standard,23718.97,Yes
+C00135,Customer 135,customer135@domain.com,9838210242,9903 7180 8460,1983-06-10,Hyderabad,Premium,38213.63,Yes
+C00136,Customer 136,customer136@domain.com,9867698610,,1984-07-25,Pune,Standard,34314.66,Yes
+C00137,Customer 137,customer137@domain.com,9887844239,7274 4826 7730,1981-11-20,Bangalore,Basic,24683.52,Yes
+C00138,Customer 138,customer138@domain.com,9891424737,1715 6213 8749,1963-11-21,Chennai,Premium,17665.12,Yes
+C00139,Customer 139,customer139@domain.com,9897873101,7246 7325 3492,1981-02-11,Hyderabad,Standard,5267.19,Yes
+C00140,Customer 140,,9853251559,9115 1606 3068,1966-09-22,Hyderabad,Basic,2748.44,Yes
+C00141,Customer 141,,9872409658,9229 6439 2644,1984-05-09,Delhi,Standard,159153.11,Yes
+C00142,Customer 142,customer142@domain.com,,8213 2633 9617,1998-03-11,Mumbai,Basic,93912.67,Yes
+C00143,Customer 143,,9869345683,8486 1251 3361,1965-10-22,Delhi,Standard,21917.9,Yes
+C00144,Customer 144,customer144@domain.com,9838682516,,1969-06-10,Chennai,Standard,157096.76,Yes
+C00145,Customer 145,,9878608612,8692 5342 6546,1985-03-20,Hyderabad,Premium,56469.54,Yes
+C00146,Customer 146,customer146@domain.com,9873509974,7512 2315 6383,1965-05-18,Pune,Standard,32939.31,Yes
+C00147,Customer 147,customer147@domain.com,9832775593,9742 7226 6188,1984-11-26,Mumbai,Basic,33964.74,Yes
+C00148,Customer 148,customer148@domain.com,9898429450,8994 9864 1588,1981-03-22,Delhi,Basic,4347.9,Yes
+C00149,Customer 149,customer149@domain.com,9821381064,2121 4846 5708,1993-02-21,Mumbai,Premium,4809.26,Yes
+C00150,Customer 150,customer150@domain.com,9848089166,4727 2480 8110,1987-09-12,Delhi,Standard,46120.59,Yes
+C00151,Customer 151,customer151@domain.com,9879182797,,1961-06-10,Hyderabad,Premium,40338.54,Yes
+C00152,Customer 152,customer152@domain.com,9899100953,3725 5906 1474,1971-04-11,Bangalore,Standard,11959.07,Yes
+C00153,Customer 153,customer153@domain.com,9894951883,1753 6314 1919,1991-04-08,Bangalore,Premium,146119.02,Yes
+C00154,Customer 154,customer154@domain.com,,5806 6873 7141,1968-03-03,Pune,Standard,76001.81,Yes
+C00155,Customer 155,customer155@domain.com,9854988206,,1978-02-17,Chennai,Standard,6021.71,Yes
+C00156,Customer 156,,9822534217,,1994-12-17,Mumbai,Premium,133631.09,Yes
+C00157,Customer 157,customer157@domain.com,9841523529,,1962-11-11,Chennai,Premium,182962.55,Yes
+C00158,Customer 158,customer158@domain.com,9851663795,7267 4945 9153,1999-03-20,Delhi,Premium,275220.87,Yes
+C00159,Customer 159,,9840150759,3344 4804 8555,1984-03-06,Hyderabad,Premium,2874.63,Yes
+C00160,Customer 160,customer160@domain.com,9836726767,5161 8529 5183,1971-12-25,Pune,Standard,66786.82,Yes
+C00161,Customer 161,customer161@domain.com,9829777514,1153 8622 5712,1999-03-24,Bangalore,Standard,39473.63,Yes
+C00162,Customer 162,customer162@domain.com,9813278320,9955 3588 2210,1988-01-14,Bangalore,Basic,61180.12,Yes
+C00163,Customer 163,customer163@domain.com,9816202700,8237 6661 5901,1983-11-24,Pune,Standard,173130.15,Yes
+C00164,Customer 164,customer164@domain.com,9842862209,7951 5097 8484,1975-08-20,Mumbai,Premium,58242.41,Yes
+C00165,Customer 165,customer165@domain.com,9873771720,5949 4263 7302,1978-12-26,Chennai,Premium,90689.17,Yes
+C00166,Customer 166,customer166@domain.com,9892043803,8916 2747 4886,1988-04-18,Delhi,Standard,100820.97,Yes
+C00167,Customer 167,customer167@domain.com,9819774839,7248 6881 5847,1975-05-26,Chennai,Basic,91156.55,Yes
+C00168,Customer 168,customer168@domain.com,9871124923,5837 1359 7484,1990-04-12,Bangalore,Basic,27764.26,Yes
+C00169,Customer 169,customer169@domain.com,9865625330,5497 1132 1803,1996-08-15,Pune,Standard,12588.5,Yes
+C00170,Customer 170,customer170@domain.com,9894525678,9138 5689 4770,1978-07-17,Bangalore,Premium,25263.02,Yes
+C00171,Customer 171,customer171@domain.com,9887265240,6772 4588 4115,1993-07-06,Hyderabad,Premium,111233.5,Yes
+C00172,Customer 172,customer172@domain.com,9836096655,,1972-10-05,Bangalore,Standard,7926.63,Yes
+C00173,Customer 173,customer173@domain.com,9861536717,1645 6061 8222,1976-01-21,Delhi,Basic,36008.06,Yes
+C00174,Customer 174,,9876354180,1546 6977 3153,1990-06-18,Mumbai,Standard,13278.29,Yes
+C00175,Customer 175,customer175@domain.com,9863640499,2476 5835 6352,1966-12-28,Mumbai,Standard,43530.68,Yes
+C00176,Customer 176,customer176@domain.com,9842747037,7807 3877 4289,1993-02-10,Hyderabad,Standard,99439.3,Yes
+C00177,Customer 177,customer177@domain.com,9829806690,3165 9837 6994,1965-03-09,Delhi,Standard,106163.39,Yes
+C00178,Customer 178,customer178@domain.com,9898054615,9697 9221 5465,1988-09-05,Pune,Premium,13504.24,Yes
+C00179,Customer 179,customer179@domain.com,9810744212,3695 5210 8894,1987-02-08,Chennai,Premium,119132.15,Yes
+C00180,Customer 180,customer180@domain.com,9824305904,5835 6549 2886,1988-06-01,Pune,Standard,44810.77,Yes
+C00181,Customer 181,customer181@domain.com,9867062156,,1986-01-13,Chennai,Basic,21555.94,Yes
+C00182,Customer 182,customer182@domain.com,,4696 7511 6992,1992-06-08,Mumbai,Standard,61581.11,Yes
+C00183,Customer 183,customer183@domain.com,9833607110,2479 7464 1228,1984-02-12,Bangalore,Premium,32856.87,Yes
+C00184,Customer 184,customer184@domain.com,9879519112,5332 9791 3024,1974-01-11,Bangalore,Premium,23739.76,Yes
+C00185,Customer 185,customer185@domain.com,9872350830,8451 7038 5295,1966-12-21,Hyderabad,Basic,61053.3,Yes
+C00186,Customer 186,,9816740197,7242 7086 2775,1981-03-05,Pune,Standard,14299.12,Yes
+C00187,Customer 187,customer187@domain.com,9884813739,4830 8724 1410,1962-05-27,Delhi,Premium,20042.73,Yes
+C00188,Customer 188,customer188@domain.com,9843446826,6374 4626 2035,1990-12-27,Chennai,Premium,28497.99,Yes
+C00189,Customer 189,customer189@domain.com,9826288475,,1968-12-16,Bangalore,Standard,14630.19,Yes
+C00190,Customer 190,customer190@domain.com,9871265269,,1988-10-01,Hyderabad,Standard,25976.68,Yes
+C00191,Customer 191,customer191@domain.com,9827896471,1609 5986 9071,1965-01-09,Pune,Basic,42370.08,Yes
+C00192,Customer 192,customer192@domain.com,9872363359,2902 2592 4846,1973-03-18,Delhi,Basic,67541.31,Yes
+C00193,Customer 193,customer193@domain.com,,9807 3222 7367,1998-09-14,Mumbai,Basic,72877.67,Yes
+C00194,Customer 194,customer194@domain.com,9881287314,8432 7078 9850,1967-05-08,Delhi,Standard,86521.09,Yes
+C00195,Customer 195,,9885017682,7866 3531 7797,1979-02-02,Mumbai,Standard,68170.25,Yes
+C00196,Customer 196,,9889920257,2622 9017 7686,1975-07-21,Pune,Basic,57134.39,Yes
+C00197,Customer 197,customer197@domain.com,9852587010,5583 1536 7070,1999-08-03,Delhi,Premium,13558.06,Yes
+C00198,Customer 198,customer198@domain.com,9869401199,4559 8264 8285,1967-08-20,Hyderabad,Premium,25559.86,Yes
+C00199,Customer 199,customer199@domain.com,9892228802,4868 6942 2627,1994-01-21,Pune,Standard,32477.08,Yes
+C00028,Customer 28,customer28@domain.com,9858942697,2341 8705 1317,1980-10-05,Mumbai,Basic,19774.59,Yes
+C00106,Customer 106,customer106@domain.com,9899152472,5557 3973 8141,1972-06-12,Delhi,Basic,48149.98,Yes
+C00149,Customer 149,customer149@domain.com,9821381064,2121 4846 5708,1993-02-21,Mumbai,Premium,4809.26,Yes
+C00078,Customer 78,customer78@domain.com,9825480907,8827 2869 2070,1982-07-04,Delhi,Premium,2462.61,Yes
+C00185,Customer 185,customer185@domain.com,9872350830,8451 7038 5295,1966-12-21,Hyderabad,Basic,61053.3,Yes
+C00176,Customer 176,customer176@domain.com,9842747037,7807 3877 4289,1993-02-10,Hyderabad,Standard,99439.3,Yes
+C00161,Customer 161,customer161@domain.com,9829777514,1153 8622 5712,1999-03-24,Bangalore,Standard,39473.63,Yes
+C00006,Customer 6,customer6@domain.com,9827558317,5451 6502 6238,1981-04-05,Pune,Premium,47274.87,Yes
+C00152,Customer 152,customer152@domain.com,9899100953,3725 5906 1474,1971-04-11,Bangalore,Standard,11959.07,Yes
+C00121,Customer 121,customer121@domain.com,,,1983-05-03,Hyderabad,Standard,27536.48,Yes

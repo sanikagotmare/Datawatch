@@ -1,9 +1,11 @@
 from pydantic_settings import BaseSettings
+from pydantic import Field
 from functools import lru_cache
 
 
 class Settings(BaseSettings):
-    gemini_api_key: str = ""
+    gemini_api_key: str = Field(default="", alias="GOOGLE_API_KEY")
+
     database_url: str = "sqlite:///./datawatch.db"
     secret_key: str = "change-me-in-production"
     algorithm: str = "HS256"
@@ -14,8 +16,9 @@ class Settings(BaseSettings):
     class Config:
         env_file = ".env"
         extra = "ignore"
+        populate_by_name = True
 
 
 @lru_cache()
-def get_settings() -> Settings:
+def get_settings():
     return Settings()
