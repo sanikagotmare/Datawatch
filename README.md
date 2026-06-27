@@ -11,6 +11,11 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ---
+ 🌐 Live Demo
+
+**Frontend:** https://datawatch-frontend-eta.vercel.app
+
+**Backend API:** https://datawatch-backend-rfw4.onrender.com
 
 ## What is DataWatch?
 
