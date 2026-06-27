@@ -19,16 +19,19 @@
 
 ## What is DataWatch?
 
-DataWatch automatically detects data quality issues in your datasets using a combination of machine learning and AI. Upload a CSV or JSON file and within seconds you get:
+DataWatch is an AI-powered Data Quality & Observability Platform that automatically detects, explains, and helps remediate data quality issues in your datasets. Simply upload a CSV or JSON file, or connect to a supported database, and receive actionable insights within seconds.
 
-- **ML-powered anomaly detection** using Isolation Forest + Z-score statistics
-- **Plain-English AI explanations** of every issue, powered by Google Gemini
-- **Data science charts** — histograms, correlation heatmaps, box plots generated server-side
-- **Self-healing engine** that automatically fixes missing values, duplicates, and type issues
-- **RAG memory** — ChromaDB stores past fixes so the AI gets smarter with every upload
-- **PII detection** — flags sensitive fields like email, phone, Aadhaar, PAN
-- **Schema drift detection** — alerts when column types or names change between uploads
-- **Database connectors** — connect directly to SQLite, PostgreSQL, or MySQL and analyze live tables
+### Key Features
+
+* 🤖 **ML-powered anomaly detection** using Isolation Forest and Z-score statistical analysis.
+* 🧠 **AI-generated explanations** powered by Google Gemini, providing root cause analysis, business impact, and intelligent fix recommendations.
+* 📊 **Automated data profiling & visualization** with histograms, correlation heatmaps, box plots, and missing value analysis.
+* 🛠️ **Self-healing engine** that automatically resolves common issues such as missing values, duplicate records, and data type inconsistencies.
+* 📚 **RAG-powered memory** using ChromaDB to retrieve similar historical fixes and generate more contextual recommendations.
+* 🔒 **PII detection** to identify sensitive information such as email addresses, phone numbers, Aadhaar numbers, and PAN details.
+* 🔄 **Schema drift detection** that monitors changes in column names, data types, and dataset structure across uploads.
+* 🗄️ **Database connectivity** with support for SQLite, PostgreSQL, and MySQL, enabling AI-powered analysis of live database tables.
+
 
 ---
 
